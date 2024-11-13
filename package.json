@@ -1,0 +1,8 @@
+{
+  "name": "git-learning-tool",
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "bash ./scripts/setup.sh",
+    "cleanup": "bash ./scripts/cleanup.sh"
+  }
+}
